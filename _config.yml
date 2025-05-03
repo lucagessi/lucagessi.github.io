@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Luca Gessi"
+  avatar           : "/assets/images/runner.jpg"
+  bio              : "R&D engineer with strong passion for maths, programming and AI."
+  location         : "Cattolica 47841, Rimini, Italia"
+  email            : "lucagessi90@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -324,3 +324,8 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true

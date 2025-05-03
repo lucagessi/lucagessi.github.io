@@ -1,7 +1,4 @@
 ---
-layout: home
-title: "Luca Gessi"
-subtitle: "Firmware embedded, AI on edge, consulenze tech"
 ---
 
 Benvenuto nel mio portfolio!
