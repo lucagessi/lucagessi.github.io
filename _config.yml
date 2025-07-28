@@ -12,7 +12,7 @@
 
 #theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Luca Gessi"
-  avatar           : "/assets/images/runner.jpg"
+  avatar           : "/assets/images/runner.png"
   bio              : "Engineer with strong passion for maths, programming and AI."
   location         : "Cattolica 47841, Rimini, Italia"
   email            : "lucagessi90@gmail.com"
