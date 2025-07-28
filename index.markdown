@@ -1,4 +1,6 @@
 ---
+layout: home
+paginate: 5
 ---
 
 Welcome to my space dedicated to technological innovation and electronic engineering ⚙️✨. I am an electronic engineer with a deep passion for technology, artificial intelligence 🤖, and deep learning. Here, I share experiences, projects, and insights on microcontrollers, embedded systems, programming in Python 🐍 and C/C++, and the Linux environment 🐧.
